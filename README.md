@@ -27,11 +27,3 @@ Run the program by specifying the data directory (`small` or `large`):
 ```bash
 python degrees.py small
 
-When prompted, enter the names of two actors to find the shortest path between them:
-
-**### Example Output**
-```Plaintext
-Name: Dustin Hoffman
-Name: Tom Cruise
-2 degrees of separation.
-1: Dustin Hoffman and Tom Cruise starred in Rain Man
